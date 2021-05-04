@@ -21,7 +21,6 @@ through: {
   model: ProductTag,
   unique: false
 },
-as: ''
 });
 
 // Tags belongToMany Products (through ProductTag)
@@ -30,7 +29,6 @@ Tag.belongsToMany(Product, {
     model: ProductTag,
     unique: false
   },
-  as: ''
 });
 
 module.exports = {
