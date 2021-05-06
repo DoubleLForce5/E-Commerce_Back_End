@@ -47,6 +47,7 @@ router.post('/', async (req, res) => {
       tagIds: [1, 2, 3, 4]
     }
   */
+  // need it to look like above ^
   Product.create(req.body)
     .then((product) => {
       // if there's product tags, we need to create pairings to bulk create in the ProductTag model
@@ -63,7 +64,7 @@ router.post('/', async (req, res) => {
 
       // if no product tags, just respond
       res.status(200).json(product);
-           
+
     })
     .then((productTagIds) => res.status(200).json(productTagIds))
     .catch((err) => {
