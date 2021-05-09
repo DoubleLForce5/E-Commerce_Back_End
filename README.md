@@ -1,9 +1,9 @@
 # E-Commerce Back End
 
-## Description:
+## Description
 This application was created to provide back end functionality to an e-commerce website. 
 
-## Installation / Usage Instructions: 
+## Installation / Usage Instructions
 - To utilize this application you will need Node.js.
 - Clone this repository and open it within VS Code or any text editor of your choosing.
 - Be sure to add a .env file with your credentials. An example .env has been provided for reference. 
@@ -16,7 +16,7 @@ This application was created to provide back end functionality to an e-commerce 
 ## Video Demonstration
 [Click here for a demo of this application](https://drive.google.com/file/d/1OdVsqNl59bxZGkeMHIufN7L3_OtjZC6Z/view?usp=sharing)
 
-## Tech Used: 
+## Tech Used
 - Mysql
 - Node.js 
 - Dotenv
