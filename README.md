@@ -6,13 +6,13 @@ This application was created to provide back end functionality to an e-commerce 
 ## Installation / Usage Instructions: 
 - To utilize this application you will need Node.js.
 - Clone this repository and open it within VS Code or any text editor of your choosing.
-- Be sure to add a .env file with your credentials. An example one has been provided for reference. 
+- Be sure to add a .env file with your credentials. An example .env has been provided for reference. 
 - Right click on the sever.js file within your explorer dock and select "open in integrated terminal"
 - In your terminal type 'NPM install' and hit enter. 
-- Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter.
+- Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter to start the sever. 
 
 ## Video Demonstration
-[Click here for a demo of this application]()
+[Click here for a demo of this application](https://drive.google.com/file/d/1OdVsqNl59bxZGkeMHIufN7L3_OtjZC6Z/view?usp=sharing)
 
 ## Tech Used: 
 - Mysql
