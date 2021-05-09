@@ -11,6 +11,8 @@ This application was created to provide back end functionality to an e-commerce 
 - In your terminal type 'NPM install' and hit enter. 
 - Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter to start the sever. 
 
+<img width="838" alt="Screen Shot 2021-05-09 at 9 49 17 AM" src="https://user-images.githubusercontent.com/73543476/117576490-d4bd3d00-b0ab-11eb-8ff6-436b8d22d48a.png">
+
 ## Video Demonstration
 [Click here for a demo of this application](https://drive.google.com/file/d/1OdVsqNl59bxZGkeMHIufN7L3_OtjZC6Z/view?usp=sharing)
 
