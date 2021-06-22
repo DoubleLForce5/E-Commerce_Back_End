@@ -3,7 +3,7 @@
 ## Description
 This application was created to provide back end functionality to an e-commerce website. 
 
-## Installation / Usage Instructions
+## Installation / Usage instructions
 - To utilize this application you will need Node.js.
 - Clone this repository and open it within VS Code or any text editor of your choosing.
 - Be sure to add a .env file with your credentials. An example .env has been provided for reference. 
@@ -13,10 +13,10 @@ This application was created to provide back end functionality to an e-commerce 
 
 <img width="838" alt="Screen Shot 2021-05-09 at 9 49 17 AM" src="https://user-images.githubusercontent.com/73543476/117576490-d4bd3d00-b0ab-11eb-8ff6-436b8d22d48a.png">
 
-## Video Demonstration
+## Video demonstration
 [Click here for a demo of this application](https://drive.google.com/file/d/1OdVsqNl59bxZGkeMHIufN7L3_OtjZC6Z/view?usp=sharing)
 
-## Tech Used
+## Tech
 - Mysql
 - Node.js 
 - Dotenv
@@ -46,5 +46,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Questions:
+## Questions
 Contact me @ https://github.com/DoubleLForce5 and/or lopez.olivia17@outlook.com 
