@@ -7,9 +7,10 @@ This application was created to provide back end functionality to an e-commerce 
 - To utilize this application you will need Node.js.
 - Clone this repository and open it within VS Code or any text editor of your choosing.
 - Be sure to add a .env file with your credentials. An example .env has been provided for reference. 
-- Right click on the sever.js file within your explorer dock and select "open in integrated terminal"
+- Right-click on the server.js file within your explorer dock and select "open in integrated terminal"
 - In your terminal type 'NPM install' and hit enter. 
-- Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter to start the sever. 
+- Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter to start the server. 
+
 
 <img width="838" alt="Screen Shot 2021-05-09 at 9 49 17 AM" src="https://user-images.githubusercontent.com/73543476/117576490-d4bd3d00-b0ab-11eb-8ff6-436b8d22d48a.png">
 
